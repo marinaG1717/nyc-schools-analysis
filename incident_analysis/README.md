@@ -23,9 +23,4 @@
 
 ---
 
-## 📈 Visuals (Optional)
-_Add bar charts, plots, or tables here to illustrate incident types or borough distributions._  
 
----
-
-👉 **Next steps:** Normalize incidents by school size (enrollment) to check if certain schools are true outliers.  
