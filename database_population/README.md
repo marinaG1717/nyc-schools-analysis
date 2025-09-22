@@ -40,7 +40,7 @@ The cleaned SAT results were integrated into the **`nyc_schools`** schema, along
 
 ### Final Table Definition
 ```sql
-CREATE TABLE IF NOT EXISTS nyc_schools.cleaned_sat_results (
+CREATE TABLE IF NOT EXISTS nyc_schools.marianna_gokova_cleaned_sat_results (
   dbn                              VARCHAR(15) PRIMARY KEY,
   school_name                      TEXT NOT NULL,
   num_of_sat_test_takers           INT,
