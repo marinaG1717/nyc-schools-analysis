@@ -1,8 +1,7 @@
 # 🗽 NYC School Directory Exploration  
 
 ## 📊 Data Sources
-- Original dataset: [high-school-directory.csv](https://drive.google.com/file/d/1lb9ehsbMyYHQ28HoAvsX58eN23G6dIfM/view?usp=drive_link)  
-- Cleaned dataset: [high-school-directory.cleaned.csv](https://drive.google.com/file/d/1HKEe8M_p-fB-cmejB-WQNFfW_6Z1nwGb/view?usp=sharing)  
+- Original dataset: - [high-school-directory.cleaned.csv](https://github.com/marinaG1717/nyc-schools-analysis/blob/b2232ba9e843235bfa3cebd9862e52b402c122cb/school_directory_exploration/high-school-directory.csv)
 
 ---
 
@@ -27,3 +26,7 @@
    - Staten Island schools are especially uniform, with every school ending at Grade 12.  
 
 ---
+
+## 📓 Files 
+- [high-school-directory.cleaned.csv](https://github.com/marinaG1717/nyc-schools-analysis/blob/b2232ba9e843235bfa3cebd9862e52b402c122cb/school_directory_exploration/high-school-directory.csv) → Final cleaned dataset ready for DB insertion.  
+- [day2_analysis.ipynb](https://github.com/marinaG1717/nyc-schools-analysis/tree/b2232ba9e843235bfa3cebd9862e52b402c122cb/school_directory_exploration/notebooks)  
