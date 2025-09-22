@@ -1,7 +1,7 @@
 # 🏫 School Incident Analysis  
 
 ## 📊 Data Sources
-- Original dataset: [school-safety-report.csv]((https://github.com/marinaG1717/nyc-schools-analysis/blob/8da64dd93b7c6b8c1f5bbe259d0e24f752cf32f0/incident_analysis/school-safety-report.csv))  
+- Original dataset: [school-safety-report.csv](https://github.com/marinaG1717/nyc-schools-analysis/blob/8da64dd93b7c6b8c1f5bbe259d0e24f752cf32f0/incident_analysis/school-safety-report.csv)  
 - Cleaned dataset: [school-safety-report.cleaned.csv](https://drive.google.com/file/d/1W5zk4AfObHxzzlUIb1ZApcBPqgaS2mKC/view?usp=sharing)  
 
 ---
